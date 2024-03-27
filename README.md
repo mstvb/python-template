@@ -30,9 +30,9 @@
 
 ## Authors
 
-> Manuel Staufer :🇦🇹: (mstvb)
-* [Github](https://github.com/mstvb)
-* [Email](mailto::manuel.staufervb@gmail.com)
+> Full Name (username)
+* [Github](https://github.com/your-username)
+* [Email](mailto::your-email.com)
 
 ## Version History
 
