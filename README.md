@@ -1,32 +1,31 @@
-# Project
+# Project Title
 
-*Short Description*
+Simple overview of use/purpose.
 
 ## Description
 
-*Long Description*
+Long Description
 
 ## Getting Started
 
 ### Dependencies
 
-* required 
+* required
 
 ### Installing
 
-*Clone Git* 
+Clone Git
 * ```git clone https:///github.com/your-username/your-repo.git```
 
-*Install as Python Package*
+Install as Python Package
 * ```python pip install git+https://github.com/your-username/your-repo.git```
 
 ## Help
 
-### Commands
-
-| Command | Arguments | Usage | Description |
-| :--- | :--- | :--- | :--- |
-| /command | arg: str | /command arg | Description |
+> First Section
+```python
+# Code Example
+```
 
 ## Authors
 
@@ -36,7 +35,7 @@
 
 ## Version History
 
-* 0.1
+* 0.1 
     * Initial Release
 
 ## License
